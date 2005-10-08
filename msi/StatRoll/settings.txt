@@ -1,0 +1,4 @@
+carrionfields.org
+9999
+%strstr %intint %wiswis %dexdex %concon %othchr
+Str: %str Int: %int Wis: %wis Dex: %dex Con: %con
