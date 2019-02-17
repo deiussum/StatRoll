@@ -97,15 +97,7 @@ Evil
 
 #$KContact information
 
-Please feel free to contact GreyWolf or WolfPak Dataworks to report any bugs, suggestions, or even criticisms.  (Criticisms should be given at your own risk, however.) :)
-
-GreyWolf and WolfPak Dataworks can be contacted a couple of ways.  
-
-You can e-mail WolfPak Dataworks at wolfpak@wolfpak.simplenet.com.
-
-You can e-mail GreyWolf at greywolfwp@uswest.net.
-
-You may also contact GreyWolf via ICQ at the UIN# 384887.
+Please feel free to contact Deiussum at deiussum@gmail.com to report any bugs, suggestions, or even criticisms.  (Criticisms should be given at your own risk, however.) :)
 
 # HID_CONTENTS
 $ Stat Roller help contents.
