@@ -1,5 +1,5 @@
-carrionfields.org
-9999
-%strstr %intint %wiswis %dexdex %concon %othchr
+carrionfields.net
+4449
+%strstr %intint %wiswis %dexdex %concon. Accept these stats? [Yes No]
 Str: %str Int: %int Wis: %wis Dex: %dex Con: %con
 <roll Str: [%str] Dex: [%dex] Int: [%int] Wis: [%wis] Cha: [%oth] Con: [%con]>
