@@ -218,7 +218,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="res\StatRoll.rc2" />
-    <None Include="statroll.hpj" />
+    <None Include="STATROLL.HLP">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="statroll.hpj">
+      <DeploymentContent>false</DeploymentContent>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="StatRoll.rc" />
@@ -232,10 +237,23 @@
   </ItemGroup>
   <ItemGroup>
     <Image Include="res\logo.bmp" />
-    <Image Include="res\StatRoll.ico" />
+    <Image Include="res\StatRoll.ico">
+      <DeploymentContent>false</DeploymentContent>
+    </Image>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="ReadMe.txt" />
+    <Text Include="ReadMe.txt">
+      <DeploymentContent>true</DeploymentContent>
+    </Text>
+    <Text Include="settings.txt">
+      <DeploymentContent>true</DeploymentContent>
+      <FileType>Document</FileType>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="gong.wav">
+      <DeploymentContent>true</DeploymentContent>
+    </Media>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
