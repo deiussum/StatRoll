@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StatRoll", "StatRoll.vcxproj", "{83F1FC1D-58D7-4B12-B6DA-DF53723E266C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StatRoll", "StatRoll\StatRoll.vcxproj", "{83F1FC1D-58D7-4B12-B6DA-DF53723E266C}"
 EndProject
 Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "StatRollSetup", "StatRollSetup\StatRollSetup\StatRollSetup.vdproj", "{B8CD1163-9E35-404E-8740-26FC537257A6}"
 EndProject
