@@ -15,13 +15,13 @@
     {
         "Entry"
         {
-        "MsmKey" = "8:_89CF17ED716D4E12A245E6938B073373"
+        "MsmKey" = "8:_2FC2134A8F6E4F92B385C9FEC4AD4682"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_95224620E864438CA71AD247C43486AD"
+        "MsmKey" = "8:_89CF17ED716D4E12A245E6938B073373"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -43,6 +43,14 @@
         "PrivateKeyFile" = "8:"
         "TimeStampServer" = "8:"
         "InstallerBootstrapper" = "3:2"
+            "BootstrapperCfg:{63ACBE69-63AA-4F98-B2B6-99F9E24495F2}"
+            {
+            "Enabled" = "11:TRUE"
+            "PromptEnabled" = "11:TRUE"
+            "PrerequisitesLocation" = "2:1"
+            "Url" = "8:"
+            "ComponentsUrl" = "8:"
+            }
         }
         "Release"
         {
@@ -59,6 +67,14 @@
         "PrivateKeyFile" = "8:"
         "TimeStampServer" = "8:"
         "InstallerBootstrapper" = "3:2"
+            "BootstrapperCfg:{63ACBE69-63AA-4F98-B2B6-99F9E24495F2}"
+            {
+            "Enabled" = "11:TRUE"
+            "PromptEnabled" = "11:TRUE"
+            "PrerequisitesLocation" = "2:1"
+            "Url" = "8:"
+            "ComponentsUrl" = "8:"
+            }
         }
     }
     "Deployable"
@@ -80,9 +96,9 @@
         }
         "File"
         {
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_95224620E864438CA71AD247C43486AD"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_2FC2134A8F6E4F92B385C9FEC4AD4682"
             {
-            "SourcePath" = "8:..\\..\\res\\StatRoll.ico"
+            "SourcePath" = "8:..\\..\\StatRoll\\res\\StatRoll.ico"
             "TargetName" = "8:StatRoll.ico"
             "Tag" = "8:"
             "Folder" = "8:_34F9D94B5B1B4E81B794DEA2373CE85E"
@@ -165,16 +181,16 @@
         "DetectNewerInstalledVersion" = "11:TRUE"
         "InstallAllUsers" = "11:FALSE"
         "ProductVersion" = "8:1.0.0"
-        "Manufacturer" = "8:Deiussum"
+        "Manufacturer" = "8:Deiussum Software"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:"
         "Title" = "8:Greywolf's Stat Roller"
         "Subject" = "8:"
-        "ARPCONTACT" = "8:Deiussum"
+        "ARPCONTACT" = "8:Deiussum Software"
         "Keywords" = "8:"
         "ARPCOMMENTS" = "8:"
         "ARPURLINFOABOUT" = "8:http://www.deiussum.com"
-        "ARPPRODUCTICON" = "8:_95224620E864438CA71AD247C43486AD"
+        "ARPPRODUCTICON" = "8:_2FC2134A8F6E4F92B385C9FEC4AD4682"
         "ARPIconIndex" = "3:0"
         "SearchPath" = "8:"
         "UseSystemSearchPath" = "11:TRUE"
@@ -288,7 +304,7 @@
             "Target" = "8:_89CF17ED716D4E12A245E6938B073373"
             "Folder" = "8:_AC997C269B384223BF2B9631288D1087"
             "WorkingFolder" = "8:_34F9D94B5B1B4E81B794DEA2373CE85E"
-            "Icon" = "8:_95224620E864438CA71AD247C43486AD"
+            "Icon" = "8:_2FC2134A8F6E4F92B385C9FEC4AD4682"
             "Feature" = "8:"
             }
         }
@@ -748,7 +764,7 @@
             }
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_89CF17ED716D4E12A245E6938B073373"
             {
-            "SourcePath" = "8:..\\..\\Release\\StatRoll.exe"
+            "SourcePath" = "8:..\\..\\StatRoll\\Release\\StatRoll.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_34F9D94B5B1B4E81B794DEA2373CE85E"
